@@ -16,6 +16,6 @@
 [<img align="left" alt="Swordchigo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Swordchigo
-[youtube]: https://www.youtube.com/c/Swordchigo
+[youtube]: https://www.youtube.com/channel/UCoOArlrIHT-UBvj436q_7XQ
 [instagram]: https://www.instagram.com/Swordchigo/
 [linkedin]: https://www.linkedin.com/in/diogo-da-silva-6b1773244/
